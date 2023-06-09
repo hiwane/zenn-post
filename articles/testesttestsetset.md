@@ -3,7 +3,7 @@ title: ZennをGithubからDeployしてみる
 emoji: 😸
 type: tech
 topics: [Zenn, Github, Deploy, CLI]
-published: true
+published: false
 ---
 
 from repository post test.
